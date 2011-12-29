@@ -1,0 +1,10 @@
+
+# PACKAGES added by backpac on 2011-12-29
+# ------------------------------------------------------------------------------
+bash-completion curl davfs2 dcron fsarchiver iptables lighttpd mkinitcpio
+netcfg net-tools nmap ntp openssh openvpn ranger rdiff-backup sudo sysstat
+ufw unzip zip
+
+# AUR PACKAGES added by backpac on 2011-12-29
+# ------------------------------------------------------------------------------
+backpac bukkit c10t-git jailkit jdk jre minecraft-overviewer-git packer tiger

@@ -1,0 +1,25 @@
+
+/etc/cron.hourly/mcbackup 755 root root
+/etc/cron.weekly/deleteLog 755 root root
+/etc/lighttpd/lighttpd.conf 644 root root
+/etc/ntp.conf 644 root root
+/etc/rc.conf 644 root root
+/etc/rc.d/bukkit 755 root root
+/etc/ssh/sshd_config 644 root root
+/etc/sysctl.conf 644 root root
+/etc/ufw/after.rules 644 root root
+/etc/ufw/before.rules 644 root root
+/etc/ufw/sysctl.conf 644 root root
+/etc/ufw/ufw.conf 644 root root
+/home/dan/.bashrc
+/home/michael/.bashrc 644 michael users
+/home/sped/.bashrc
+/lib/ufw/user6.rules 644 root root
+/lib/ufw/user.rules 644 root root
+/srv/bukkit/banned-ips.txt 644 mc users
+/srv/bukkit/banned-players.txt 644 mc users
+/srv/bukkit/bin/craftbukkit-1.0.0-SNAPSHOT.jar 644 root root
+/srv/bukkit/ops.txt 644 mc users
+/srv/bukkit/server.properties 644 mc users
+/srv/bukkit/white-list.txt 644 mc users
+/var/spool/cron/root
